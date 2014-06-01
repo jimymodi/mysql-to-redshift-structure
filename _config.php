@@ -1,14 +1,15 @@
 <?php
 $_MYSQL = array(
     'host' => '',
-    'db' => '',
+    'db'   => '',
     'user' => '',
     'pass' => '',
+    'port' => '3306'
 );
 
 $_PGSQL = array(
     'host' => '',
-    'db' => '',
+    'db'   => '',
     'user' => '',
     'pass' => '',
 );
